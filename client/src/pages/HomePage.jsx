@@ -612,7 +612,7 @@ export default function HomePage() {
               </p>
             </div>
             <button 
-              onClick={() => alert("Coming soon")}
+              onClick={() => alert("Learn More page coming soon")}
               className="shrink-0 bg-stone-900 text-white text-sm px-6 sm:px-7 py-3 rounded-full
                                hover:bg-stone-700 transition-colors self-start md:self-auto w-full sm:w-auto
                                text-center">
@@ -666,7 +666,7 @@ export default function HomePage() {
           </div>
         </section>
       </div>
-
+      
       {/* Footer */}
       <footer className="border-t border-stone-200 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-5 lg:px-10 py-7 sm:py-8
