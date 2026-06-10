@@ -666,7 +666,7 @@ export default function HomePage() {
           </div>
         </section>
       </div>
-
+      
       {/* Footer */}
       <footer className="border-t border-stone-200 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-5 lg:px-10 py-7 sm:py-8
